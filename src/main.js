@@ -3,10 +3,12 @@
 import Vue from 'vue'
 import App from './App'
 import router from './router'
+import VCharts from 'v-charts'
 
 import 'bootstrap/scss/bootstrap.scss'
 import 'bootstrap'
 
+Vue.use(VCharts)
 Vue.config.productionTip = false
 
 /* eslint-disable no-new */

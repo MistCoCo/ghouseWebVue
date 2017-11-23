@@ -15,7 +15,7 @@
             <router-link class="nav-link" :to="{ path: '/memo' }">備忘</router-link>
           </li>
           <li class="nav-item">
-            <router-link class="nav-link" :to="{ path: '/pepo' }">測試</router-link>
+            <router-link class="nav-link" :to="{ path: '/pepe' }">測試</router-link>
           </li>
           <li class="nav-item">
             <a class="nav-link disabled" href="#">Disabled</a>

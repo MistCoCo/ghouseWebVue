@@ -81,7 +81,7 @@ export default {
           temp: vm.onTemp,
           humi: vm.onHumi
         })
-      }, 10000)
+      }, 60000)
     })
   }
 }
